@@ -1,0 +1,12 @@
+#sentence-container {
+    font-size: 100px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#image-container {
+    display: block;
+    margin: 20px auto;
+    max-width: 20%;
+    height: auto;
+}
